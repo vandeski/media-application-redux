@@ -1,0 +1,52 @@
+{
+  "mediaList": [
+    {
+      "id": 4,
+      "title": "Game Two",
+      "type": "game",
+      "genre": "RPG",
+      "releaseYear": 2019,
+      "rating": 9
+    },
+    {
+      "id": 5,
+      "title": "Show One",
+      "type": "tv-show",
+      "genre": "Comedy",
+      "releaseYear": 1998,
+      "rating": 8
+    },
+    {
+      "id": 6,
+      "title": "Show Two",
+      "type": "tv-show",
+      "genre": "Thriller",
+      "releaseYear": 2013,
+      "rating": "9"
+    },
+    {
+      "id": 162545937,
+      "title": "Movie Three",
+      "type": "movie",
+      "genre": "Horror",
+      "releaseYear": "1997",
+      "rating": "5"
+    },
+    {
+      "id": 338201088,
+      "title": "Movie is Back",
+      "type": "movie",
+      "genre": "Comedy",
+      "releaseYear": "1954",
+      "rating": "7"
+    },
+    {
+      "id": 604826331,
+      "title": "This is a test",
+      "type": "tv-show",
+      "genre": "sci-fi",
+      "releaseYear": "2013",
+      "rating": "7"
+    }
+  ]
+}
